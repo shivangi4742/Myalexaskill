@@ -13,6 +13,3 @@ This template uses the [Alexa Skills Kit SDK 2.0 for Node.js](https://github.com
 
 After running the previous command you'll see of list of templates to choose from. Pick the template named `API Starter`. This will create a new folder named `./api-starter/` all of the code for the template will be located in that folder.
 
-### Video Tutorial
-
-[coming soon]
